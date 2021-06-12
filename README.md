@@ -7,8 +7,7 @@
 ### **Laguages**
 #####   -Java &
 #####   -Kotlin
-
-### Golang Leaner
+##### Golang(Leaner)
 
 ### **Tools**
 ##### -Android Studio
