@@ -3,8 +3,10 @@
 <h3 align="center">Nick name: Sammug 😆 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sammug" alt="David Muigai" /> </p>
 
-- 🔭  Current stack: Android[Java](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiUw464g5PxAhUVhVwKHU5dAOUQFnoECCsQAA&url=https%3A%2F%2Fwww.java.com%2F&usg=AOvVaw07au0gJtrW9kRPFYV_4HTb)/[Kotlin](https://kotlinlang.org)
+
+- 🔭                            Current stack: Android[Java](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiUw464g5PxAhUVhVwKHU5dAOUQFnoECCsQAA&url=https%3A%2F%2Fwww.java.com%2F&usg=AOvVaw07au0gJtrW9kRPFYV_4HTb)/[Kotlin](https://kotlinlang.org)
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org)
+    
 - 📫 Reach me on: 
 <p align="center"
 <a href="https://twitter.com/sammug254_">
