@@ -32,7 +32,6 @@
 
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=Sammug&count_private=true&show_icons=true&theme=buefy" alt="David Muigai" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammug&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="David Muigai" height="165" />
  <h3></p>
  <p align="center" color="blue">Happy coding ☕
 </p></h3>
