@@ -28,14 +28,6 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
 </p>
 
-### ⚡ GitHub Statistics
-
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Sammug&count_private=true&show_icons=true&theme=buefy" alt="David Muigai" width="420"/> 
- <h3></p>
- <p align="center" color="blue">Happy coding ☕
-</p></h3>
-
 <!--
 **David Muigai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
