@@ -1,13 +1,11 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm David Muigai</h1>
 <h3 align="center">A Software developer currently based in Nairobi <img src="https://image.flaticon.com/icons/svg/630/630611.svg" width="14"/> </h3>
 <h3 align="center">Nick name: Sammug 😆 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sammug" alt="David Muigai" /> </p>
-
 
 - 🔭                            Current stack: Android[Java](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiUw464g5PxAhUVhVwKHU5dAOUQFnoECCsQAA&url=https%3A%2F%2Fwww.java.com%2F&usg=AOvVaw07au0gJtrW9kRPFYV_4HTb)/[Kotlin](https://kotlinlang.org)
     
 - 📫 Reach me on other platforms: 
-<p align="center"
+<p align="left"
 <a href="https://twitter.com/sammug254_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
   </a>&nbsp;&nbsp;
@@ -21,24 +19,8 @@
 
 ### Languages and Tools:
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
 </p>
-
-<!--
-**David Muigai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
