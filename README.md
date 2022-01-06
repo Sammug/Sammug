@@ -1,6 +1,5 @@
 <h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm David Muigai</h1>
 <h3 align="left">A Software developer</h3>-
-<h3 align="left">Nick name: Sammug 😆 </h3>
 
 - 🔭                            Current stack: Android[Java](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiUw464g5PxAhUVhVwKHU5dAOUQFnoECCsQAA&url=https%3A%2F%2Fwww.java.com%2F&usg=AOvVaw07au0gJtrW9kRPFYV_4HTb)/[Kotlin](https://kotlinlang.org)
     
