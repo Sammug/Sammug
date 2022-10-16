@@ -28,7 +28,7 @@
 
 ### Now Playing — Spotify 🎧
 
-<div align=center >
+<div align=left >
 <p>
  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=l9yemjmns9vxw7z9kgxcqr7zb&redirect=true">
    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=l9yemjmns9vxw7z9kgxcqr7zb&cover_image=true&theme=default&show_offline=false"/>
