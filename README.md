@@ -1,6 +1,8 @@
 <div align=center >
 <h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm David Muigai</h1>
 <h3 align="left">A Software developer</h3>
+</div>
+
 - 🔭                            Current stack: Android[Java](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiUw464g5PxAhUVhVwKHU5dAOUQFnoECCsQAA&url=https%3A%2F%2Fwww.java.com%2F&usg=AOvVaw07au0gJtrW9kRPFYV_4HTb)/[Kotlin](https://kotlinlang.org)
     
 - 📫 Reach me on other platforms: 
@@ -23,7 +25,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
 </p>
-</div>
 
 ### Now Playing — Spotify 🎧
 
