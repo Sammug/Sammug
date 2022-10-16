@@ -1,14 +1,7 @@
 <div align=center >
 <img src="[https://readme-typing-svg.herokuapp.com](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hi+👋%2C+I'm+Sam+Muigai.;Android+Engineer;"
 />
-
- ### Now Playing - Spotify 🎧
-<p>
- <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
-   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
- </a>
- </p>
-  </div>
+</div>
 
 - 🔭                            Current stack: Android[Java](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiUw464g5PxAhUVhVwKHU5dAOUQFnoECCsQAA&url=https%3A%2F%2Fwww.java.com%2F&usg=AOvVaw07au0gJtrW9kRPFYV_4HTb)/[Kotlin](https://kotlinlang.org)
     
