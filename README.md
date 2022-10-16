@@ -23,3 +23,9 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
 </p>
+### Now Playing — Spotify 🎧
+<p>
+<a href=”https://spotify-github-profile.vercel.app/api/view?uid=l9yemjmns9vxw7z9kgxcqr7zb&cover_image=true&theme=default&show_offline=false&bar_color=4b5168">
+<img src=”https://spotify-github-profile.vercel.app/api/view?uid=l9yemjmns9vxw7z9kgxcqr7zb&redirect=true"/>
+</a>
+</p>
