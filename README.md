@@ -25,7 +25,7 @@
 </p>
 ### Now Playing — Spotify 🎧
 <p>
-<a href=”https://spotify-github-profile.vercel.app/api/view?uid=l9yemjmns9vxw7z9kgxcqr7zb&cover_image=true&theme=default&show_offline=false&bar_color=4b5168">
-<img src=”https://spotify-github-profile.vercel.app/api/view?uid=l9yemjmns9vxw7z9kgxcqr7zb&redirect=true"/>
+<a href=”[https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=l9yemjmns9vxw7z9kgxcqr7zb&redirect=true)">
+<img src=”[https://spotify-github-profile.vercel.app/api/view?uid=l9yemjmns9vxw7z9kgxcqr7zb&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=l9yemjmns9vxw7z9kgxcqr7zb&cover_image=true&theme=default&show_offline=false)"/>
 </a>
 </p>
